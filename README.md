@@ -1,31 +1,8 @@
-<!-- Links -->
-[bmac]: https://www.buymeacoffee.com/adi1090x
-[ko-fi]: https://ko-fi.com/adi1090x
-[paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
-[patreon]: https://www.patreon.com/adi1090x
-
 # Termux Style
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/adi1090x/termux-style?color=violet&style=for-the-badge">
-</p>
-
-[<img align="left" alt="adi1090x | Twitter" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/1.png" />][bmac]
-[<img align="left" alt="adi1090x | Reddit" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/2.png" />][ko-fi]
-[<img align="left" alt="adi1090x | Github" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/3.png" />][paypal]
-[<img align="left" alt="adi1090x | Instagram" width="48px" src="https://raw.githubusercontent.com/adi1090x/files/master/other/4.png" />][patreon]
-
-<br />
-<br />
-<br />
+Forked from https://github.com/adi1090x/termux-style
 
 Simple script to change color-schemes and fonts for [Termux](https://termux.com) terminal emulator.
-
-![gif](images/main.gif) <br />
 
 > **`termux-style` provides color-schemes and powerline-ready fonts to customize the appearance of the Termux terminal.**
 
@@ -38,7 +15,7 @@ Follow the steps below -
 cd $HOME
 
 # clone this repository - 
-git clone https://github.com/adi1090x/termux-style
+git clone https://github.com/wallentx/termux-starstorm
 
 # change to termux-style dir -
 cd termux-style
@@ -61,7 +38,7 @@ $ termux-style
     │░░█░░█▀▀░█▀▄░█░█░█░█░▄▀▄░▄▄▄░▀▀█░░█░░░█░░█░░░█▀▀░░│
     │░░▀░░▀▀▀░▀░▀░▀░▀░▀▀▀░▀░▀░░░░░▀▀▀░░▀░░░▀░░▀▀▀░▀▀▀░░│
     └──────────────────────────────────────────────────┘
-    [*] By- Aditya Shakya // adi1090x
+    [*] Starstorm
 
     [C] Colors (89)
     [F] Fonts (20)
@@ -90,14 +67,14 @@ $ termux-style
 
     [Select Option]: 2
 
-    [Enter Color-scheme URL]: https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties
+    [Enter Color-scheme URL]: https://raw.githubusercontent.com/wallentx/termux-starstorm/master/colors/gruvbox-dark.properties
 
     [*] Reloading Settings...
     [*] Applied Successfully.
 ```
 
 + To import *local file*, enter the full path (e.g. - `/data/data/com.termux/files/home/spiderman.properties`) of the color-scheme.
-+ To import *web file*, enter the file url (e.g. - `https://raw.githubusercontent.com/adi1090x/termux-style/master/colors/gruvbox-dark.properties`) of the color-scheme.
++ To import *web file*, enter the file url (e.g. - `https://raw.githubusercontent.com/wallentx/termux-starstorm/master/colors/gruvbox-dark.properties`) of the color-scheme.
 <br />
 
 ### Previews
